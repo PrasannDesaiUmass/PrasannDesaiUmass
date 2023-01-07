@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrasannDesaiUmass
-- 👀 I’m interested in Data Science and Football Analytics
+- 👀 I’m interested in Data Science and Soccer Analytics
 - 🌱 I’m currently pursuing my masters in Computer Science at UMass Amherst
 - 💞️ I’m looking to collaborate on anything related to data science projects
 - 📫 How to reach me: prasanndesai94@gmail.com
